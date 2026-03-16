@@ -4,22 +4,31 @@ title: "Research Projects"
 author_profile: true
 ---
 
-## Regenerative Drug Repurposing Engine
+REGENEX Computational Regeneration Pipeline
+AI-Driven Regenerative Drug Repurposing Engine
 
-A computational bioinformatics platform designed to identify candidate drugs capable of activating regeneration-associated molecular pathways in human tissues.
+This project develops a transcriptomics-driven computational framework to identify small molecules capable of inducing regeneration-like gene expression programs in damaged human tissues.
 
-### Scientific Strategy
+Computational Pipeline Architecture
 
-- Mining GEO transcriptomic datasets  
-- Differential gene expression modelling  
-- Pathway enrichment analysis  
-- Drug–gene signature matching  
-- Network pharmacology modelling  
+🧬 Step 1 — Regeneration Dataset Mining
+Public transcriptomic datasets of regenerative species and injured human tissues are collected from GEO.
 
-### Computational Tools
+🧬 Step 2 — Differential Expression Signature Extraction
+Regeneration-specific gene signatures are identified using statistical modelling and normalization pipelines.
 
-Python · R · Cytoscape · STRING · GEOquery · Pandas · Scikit-learn  
+🧬 Step 3 — Pathway Enrichment Modelling
+Functional enrichment analysis is performed to detect key signalling pathways governing tissue regeneration.
 
-### Research Vision
+🧬 Step 4 — Drug Signature Matching
+Perturbation databases are screened to identify compounds reversing degeneration-associated signatures.
 
-To develop an AI-assisted regenerative medicine discovery engine inspired by comparative regeneration biology models such as axolotl tissue regeneration.
+🧬 Step 5 — AI-Based Candidate Ranking
+Machine learning models prioritise drugs with maximal regenerative transcriptional potential.
+
+🧬 Step 6 — Systems-Level Validation Framework
+Network biology simulations evaluate pathway restoration robustness.
+
+Research Impact
+
+This pipeline aims to accelerate discovery of regenerative therapeutics for neurodegeneration, cardiac injury, and tissue fibrosis by integrating systems biology with artificial intelligence.
