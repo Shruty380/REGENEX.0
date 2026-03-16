@@ -2,6 +2,7 @@
 title: "Datasets"
 permalink: /datasets/
 author_profile: true
+layout: single
 ---
 
 Regenerative Transcriptomics Dataset Resources
