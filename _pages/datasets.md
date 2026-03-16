@@ -1,3 +1,9 @@
+---
+title: "Datasets"
+permalink: /datasets/
+author_profile: true
+---
+
 Regenerative Transcriptomics Dataset Resources
 
 This section documents publicly available transcriptomic datasets utilised for computational regeneration modelling.
