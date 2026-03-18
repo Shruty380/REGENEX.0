@@ -81,3 +81,21 @@ Machine learning ranking models integrate pathway activation scores, network cen
 
 **Phase 5 — Systems-Level Biological Validation Strategy**  
 Network modelling and literature-guided mechanistic inference frameworks are applied to propose regenerative therapeutic hypotheses. 
+
+## Expected Scientific Outcomes
+
+The REGENEX regenerative drug repurposing framework is designed to generate biologically meaningful computational predictions supporting translational regenerative medicine research.
+
+Key anticipated outcomes include:
+
+• Identification of candidate small molecules capable of inducing pro-regenerative transcriptional programs  
+
+• Discovery of conserved molecular pathways linking developmental regeneration models with human tissue repair mechanisms  
+
+• Network-level understanding of regeneration signalling hierarchies  
+
+• Prioritisation of druggable targets for experimental validation in regenerative disease models  
+
+• Establishment of an extensible computational pipeline for integrative regenerative bioinformatics research  
+
+This research aims to contribute towards accelerating hypothesis generation in tissue regeneration therapeutics and systems pharmacology.
