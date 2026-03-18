@@ -10,7 +10,7 @@ AI-Driven Regenerative Drug Repurposing Engine
 This project develops a transcriptomics-driven computational framework to identify small molecules capable of inducing regeneration-like gene expression programs in damaged human tissues.
 
 Computational Pipeline Architecture
-![Regenerative Pipeline Diagram](/images/regen_pipeline.png)
+![Pipeline Diagram](/images/pipeline.png)
 
 🧬 Step 1 — Regeneration Dataset Mining
 Public transcriptomic datasets of regenerative species and injured human tissues are collected from GEO.
