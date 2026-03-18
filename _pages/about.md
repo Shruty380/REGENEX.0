@@ -28,15 +28,14 @@ The lab integrates transcriptomic data science, systems pharmacology and machine
 
 ### Primary Research Domains
 
-   Regenerative transcriptomics and cross-species molecular signature analysis  
+🧬 Regenerative transcriptomics and cross-species molecular signature analysis  
 
-   Drug repurposing for tissue repair and degenerative disease intervention  
+🧬 Drug repurposing for tissue repair and degenerative disease intervention  
 
-   Network biology modelling of regeneration signalling pathways  
+🧬 Network biology modelling of regeneration signalling pathways  
 
-   AI-assisted prioritisation of candidate regenerative therapeutics  
+🧬 AI-assisted prioritisation of candidate regenerative therapeutics  
 
 ### Long-Term Scientific Goal
 
 To establish scalable computational pipelines enabling predictive regenerative medicine research and facilitating translational collaboration between bioinformatics, molecular biology and clinical science communities.
-
