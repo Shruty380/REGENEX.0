@@ -61,4 +61,23 @@ Future updates will include:
 - Automated GEO dataset ingestion scripts  
 - Differential expression workflow (Python / R hybrid pipeline)  
 - Drug–gene signature similarity scoring engine  
-- Systems biology network visualisation modules  
+- Systems biology network visualisation modules
+
+## Research Methodology Framework
+
+The REGENEX computational regeneration platform follows a translational systems-biology driven methodology designed to bridge transcriptomic discovery and therapeutic hypothesis generation.
+
+**Phase 1 — Regeneration Signature Discovery**  
+Cross-species transcriptomic datasets are integrated to identify conserved regeneration-associated molecular programs.
+
+**Phase 2 — Disease Degeneration Mapping**  
+Human injury and degenerative condition datasets are analysed to derive pathological gene expression signatures.
+
+**Phase 3 — Drug Perturbation Modelling**  
+Small-molecule induced transcriptional response profiles are computationally screened to identify reversal or mimicry patterns.
+
+**Phase 4 — AI-Driven Candidate Prioritisation**  
+Machine learning ranking models integrate pathway activation scores, network centrality metrics and gene-set similarity indices.
+
+**Phase 5 — Systems-Level Biological Validation Strategy**  
+Network modelling and literature-guided mechanistic inference frameworks are applied to propose regenerative therapeutic hypotheses. 
