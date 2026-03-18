@@ -47,3 +47,18 @@ The regenerative drug repurposing engine integrates publicly available high-qual
 - Drug perturbation signatures from LINCS L1000 database
 
 These datasets form the systems-level foundation for AI-driven regenerative candidate prioritisation.
+
+## Computational Pipeline Implementation
+
+The regenerative drug repurposing engine is implemented as a modular bioinformatics workflow integrating transcriptomic preprocessing, statistical modelling, pathway enrichment and machine learning ranking modules.
+
+🔗 **Project Code Repository**  
+Access the development version of the computational pipeline here:  
+👉 https://github.com/shruty380/REGENEX.0
+
+Future updates will include:
+
+- Automated GEO dataset ingestion scripts  
+- Differential expression workflow (Python / R hybrid pipeline)  
+- Drug–gene signature similarity scoring engine  
+- Systems biology network visualisation modules  
