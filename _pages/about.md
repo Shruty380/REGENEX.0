@@ -16,20 +16,27 @@ redirect_from:
   - /about.html
 ---
 
-## Computational Regenerative Biology Lab
+## Computational Regenerative Systems Biology Lab
 
-Welcome to the REGENEX Bioinformatics Research Platform.
+Welcome to the REGENEX Bioinformatics Research Initiative.
 
-This research focuses on identifying drugs capable of inducing regeneration-like gene expression programs in human tissues using transcriptomic datasets and computational modelling.
+This research program focuses on developing computational frameworks to identify molecular drivers of tissue regeneration and therapeutic candidates capable of modulating regenerative signalling networks in human disease contexts.
 
-### Core Research Domains
+### Core Research Vision
 
-- Regenerative Drug Repurposing Engine  
-- GEO Transcriptomic Signature Analysis  
-- Comparative Regeneration Biology (Axolotl vs Human)  
-- Systems Pharmacology Network Modelling  
+The lab integrates transcriptomic data science, systems pharmacology and machine-learning assisted biological modelling to explore regenerative mechanisms inspired by highly regenerative organisms and translate these insights into human therapeutic hypothesis generation.
 
-### Current Objective
+### Primary Research Domains
 
-To build an AI-assisted bioinformatics pipeline that predicts candidate small molecules capable of activating pro-regenerative cellular pathways.
+   Regenerative transcriptomics and cross-species molecular signature analysis  
+
+   Drug repurposing for tissue repair and degenerative disease intervention  
+
+   Network biology modelling of regeneration signalling pathways  
+
+   AI-assisted prioritisation of candidate regenerative therapeutics  
+
+### Long-Term Scientific Goal
+
+To establish scalable computational pipelines enabling predictive regenerative medicine research and facilitating translational collaboration between bioinformatics, molecular biology and clinical science communities.
 
