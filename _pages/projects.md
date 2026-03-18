@@ -11,7 +11,7 @@ This project develops a transcriptomics-driven computational framework to identi
 
 ## Computational Pipeline Architecture
 
-![Pipeline Diagram](/images/pipeline.png)
+![Pipeline Diagram](/REGENEX.0/images/pipeline.png)
 
 🧬 Step 1 — Regeneration Dataset Mining
 Public transcriptomic datasets of regenerative species and injured human tissues are collected from GEO.
