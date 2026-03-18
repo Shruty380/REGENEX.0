@@ -34,3 +34,16 @@ Network biology simulations evaluate pathway restoration robustness.
 Research Impact
 
 This pipeline aims to accelerate discovery of regenerative therapeutics for neurodegeneration, cardiac injury, and tissue fibrosis by integrating systems biology with artificial intelligence.
+
+## Transcriptomic Datasets Used
+
+The regenerative drug repurposing engine integrates publicly available high-quality transcriptomic datasets.
+
+**Primary datasets**
+
+- Human tissue injury regeneration RNA-seq datasets (NCBI GEO)
+- Axolotl limb regeneration expression profiles
+- Zebrafish cardiac regeneration datasets
+- Drug perturbation signatures from LINCS L1000 database
+
+These datasets form the systems-level foundation for AI-driven regenerative candidate prioritisation.
