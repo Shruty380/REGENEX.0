@@ -99,3 +99,23 @@ Key anticipated outcomes include:
 • Establishment of an extensible computational pipeline for integrative regenerative bioinformatics research  
 
 This research aims to contribute towards accelerating hypothesis generation in tissue regeneration therapeutics and systems pharmacology.
+
+## Transcriptomic Similarity Modelling Strategy
+
+An exploratory machine-learning assisted analysis framework is being investigated to support prioritisation of candidate regenerative compounds.
+
+The current computational direction focuses on comparing transcriptomic perturbation patterns associated with tissue regeneration against drug-induced expression signatures.
+
+### Planned Analytical Components
+
+• Gene expression similarity scoring using correlation and cosine-distance metrics  
+
+• Dimensionality reduction approaches for transcriptomic pattern visualisation  
+
+• Clustering analysis of regeneration-associated molecular signatures  
+
+• Exploratory ranking models for candidate perturbation prioritisation  
+
+### Current Research Position
+
+This component is currently intended for hypothesis-support and exploratory computational analysis rather than predictive clinical inference.
