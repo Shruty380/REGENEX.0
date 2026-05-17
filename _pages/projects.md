@@ -139,3 +139,19 @@ Several extensions of the current computational framework are being considered f
 ### Long-Term Direction
 
 The long-term objective is to contribute toward scalable computational methodologies supporting regenerative medicine hypothesis generation and systems-level biological interpretation.
+
+## Exploratory Transcriptomic Visualisation
+
+Preliminary analytical visualisations are being explored to investigate transcriptomic relationships associated with regenerative biological states.
+
+### Planned analyses
+
+- Principal Component Analysis (PCA)
+
+- Differential expression heatmaps
+
+- Gene interaction network modelling
+
+- Regenerative pathway enrichment analysis
+
+- Drug perturbation similarity mapping
