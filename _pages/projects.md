@@ -119,3 +119,23 @@ The current computational direction focuses on comparing transcriptomic perturba
 ### Current Research Position
 
 This component is currently intended for hypothesis-support and exploratory computational analysis rather than predictive clinical inference.
+
+## Future Research Directions
+
+Several extensions of the current computational framework are being considered for future investigation.
+
+### Potential Development Areas
+
+• Integration of single-cell transcriptomic datasets for cell-type specific regeneration analysis  
+
+• Comparative modelling of developmental and regenerative signalling programs  
+
+• Expansion toward multimodal biological data integration  
+
+• Incorporation of graph-based biological network learning approaches  
+
+• Development of reproducible computational workflows for large-scale regenerative systems biology studies  
+
+### Long-Term Direction
+
+The long-term objective is to contribute toward scalable computational methodologies supporting regenerative medicine hypothesis generation and systems-level biological interpretation.
